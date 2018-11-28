@@ -1,6 +1,7 @@
 ## Saavn music downloader
 Download Saavn playlists by just passing the link of it.
-*ALL THE EXECUTABLES GIVEN HERE ARE FOR LINUX x64 system, tested on a debian based OS (elementary OS), Kernel: 4.15.0-39-generic, Download the binaries from the link below, if it's not compatible on your system*
+
+**ALL THE EXECUTABLES GIVEN HERE ARE FOR LINUX x64 system, tested on a debian based OS (elementary OS), Kernel: 4.15.0-39-generic, Download the binaries from the link below, if it's not compatible on your system**
 ## Usage:
 ```sh
     pip3 install -r requirements.txt
